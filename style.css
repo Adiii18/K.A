@@ -24,9 +24,17 @@
     top: 5%;
     left: 30%;
     margin-top:100px ;
+    
 }
 
 #search{
     width: 500px;
     height: 35px;
+}
+.logo-pic{
+    height: 40px;
+    width: 44x;
+    position: absolute;
+    left: 600px;
+    
 }
