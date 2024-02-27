@@ -39,7 +39,8 @@
     }
 
     input[type="submit"]:hover {
-      background-color: #45a049;
+      background-color: white;
+      color: black;
     }
 
     .links {
